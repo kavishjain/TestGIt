@@ -8,7 +8,7 @@ def mulitply(a,b):
 	pass
 	
 def divide(a,b):
-	pass
+	return a/b
 	
 def square(a,b):
 	pass
